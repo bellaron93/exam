@@ -1,0 +1,16 @@
+The users was successfully saved in the database at " +localdate+ " !
+Cannot add user! The passwords are different!
+Cannot add user! Password too short!
+User already exists!
+Incorrect password!
+User with email:" + email + " was successfully added!
+Cannot find user with email:" + email + 
+User with email " + email + " is the current user started from " + localdate
+Another user is already connected!
+User with email " + email + " successfully disconnected at " + localdate + " !
+There is no connected user!
+Flight from " + from + " to "+ to +" , date " + localDateTime + " , duration " +dur + ".
+The flight with id " + id + " does not exist!"
+The user with email " + email + " already have a ticket for flight with id " + id + ".
+The flight with id " +id+ " was successfully added for user with email"+ email + ".
+The user with email " +email + " has successfully canceled his ticket for flight with id "+id+ ".
